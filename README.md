@@ -1,0 +1,1 @@
+This repository contains a simple Python function that demonstrates a common error: ZeroDivisionError. The bug is caused by attempting to divide a number by zero. The solution shows how to handle this error using a try-except block.
